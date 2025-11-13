@@ -1,5 +1,5 @@
 custom:
-  message: Centralized config for Account Service
+  message: Centralized config for Account Service (including dynamic refresh)
 server:
   port: 8082
 
