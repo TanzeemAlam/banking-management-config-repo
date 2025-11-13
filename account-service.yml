@@ -1,5 +1,5 @@
-app:
-  name: Config server from github
+custom:
+  message: Centralized config for Account Service
 server:
   port: 8082
 
