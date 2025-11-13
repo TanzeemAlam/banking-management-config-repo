@@ -1,5 +1,5 @@
 custom:
-  message: Centralized config for Customer Service
+  message: Centralized config for Customer Service (including refresh scope)
 server:
   port: 8081
 
